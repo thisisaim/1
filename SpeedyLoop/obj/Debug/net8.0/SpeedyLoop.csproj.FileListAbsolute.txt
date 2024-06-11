@@ -1,0 +1,14 @@
+/Users/aim/Documents/whitespace/1/SpeedyLoop/bin/Debug/net8.0/SpeedyLoop
+/Users/aim/Documents/whitespace/1/SpeedyLoop/bin/Debug/net8.0/SpeedyLoop.deps.json
+/Users/aim/Documents/whitespace/1/SpeedyLoop/bin/Debug/net8.0/SpeedyLoop.runtimeconfig.json
+/Users/aim/Documents/whitespace/1/SpeedyLoop/bin/Debug/net8.0/SpeedyLoop.dll
+/Users/aim/Documents/whitespace/1/SpeedyLoop/bin/Debug/net8.0/SpeedyLoop.pdb
+/Users/aim/Documents/whitespace/1/SpeedyLoop/obj/Debug/net8.0/SpeedyLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aim/Documents/whitespace/1/SpeedyLoop/obj/Debug/net8.0/SpeedyLoop.AssemblyInfoInputs.cache
+/Users/aim/Documents/whitespace/1/SpeedyLoop/obj/Debug/net8.0/SpeedyLoop.AssemblyInfo.cs
+/Users/aim/Documents/whitespace/1/SpeedyLoop/obj/Debug/net8.0/SpeedyLoop.csproj.CoreCompileInputs.cache
+/Users/aim/Documents/whitespace/1/SpeedyLoop/obj/Debug/net8.0/SpeedyLoop.dll
+/Users/aim/Documents/whitespace/1/SpeedyLoop/obj/Debug/net8.0/refint/SpeedyLoop.dll
+/Users/aim/Documents/whitespace/1/SpeedyLoop/obj/Debug/net8.0/SpeedyLoop.pdb
+/Users/aim/Documents/whitespace/1/SpeedyLoop/obj/Debug/net8.0/SpeedyLoop.genruntimeconfig.cache
+/Users/aim/Documents/whitespace/1/SpeedyLoop/obj/Debug/net8.0/ref/SpeedyLoop.dll
